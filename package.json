@@ -1,0 +1,23 @@
+{
+  "name": "VideoPlayer",
+  "version": "1.0.0",
+  "description": "Reproductor de vídeo",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imEag/VideoPlayer.git"
+  },
+  "keywords": ["video", "player", "media"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imEag/VideoPlayer/issues"
+  },
+  "homepage": "https://github.com/imEag/VideoPlayer#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
